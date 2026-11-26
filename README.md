@@ -2,6 +2,10 @@
 
 Projet Python · **Zakaria Lotfi** · B3 Data et IA
 
+### 🎬 [Voir la présentation en ligne](https://zaklotfi.github.io/Projet_python/presentation.html)
+
+La présentation est interactive : flèches du clavier pour naviguer, touche F pour le plein écran.
+
 Un programme en ligne de commande pour gérer un championnat complet : inscrire des équipes, saisir des matchs, afficher le classement et les statistiques, et même simuler tout un championnat automatiquement.
 
 ## Lancer le programme
@@ -18,7 +22,7 @@ Aucune installation nécessaire : le projet utilise uniquement la bibliothèque 
 | --- | --- |
 | `main.py` | Le menu interactif : affiche les options, lit le choix et appelle la bonne fonction |
 | `functions.py` | Toutes les fonctions du programme |
-| `presentation.html` | La présentation du projet, avec ses animations (à ouvrir dans un navigateur) |
+| `presentation.html` | La présentation du projet, avec ses animations ([voir en ligne](https://zaklotfi.github.io/Projet_python/presentation.html)) |
 
 ## Fonctionnalités
 
