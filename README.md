@@ -2,7 +2,7 @@
 
 Projet Python · **Zakaria Lotfi** · B3 Data et IA
 
-### 🎬 [Voir la présentation en ligne](https://zaklotfi.github.io/Projet_python/presentation.html)
+### 🎬 [Voir la présentation en ligne](https://zaklotfi.github.io/Gestion-Championnat-Foot-Python/presentation.html)
 
 La présentation est interactive : flèches du clavier pour naviguer, touche F pour le plein écran.
 
@@ -22,7 +22,7 @@ Aucune installation nécessaire : le projet utilise uniquement la bibliothèque 
 | --- | --- |
 | `main.py` | Le menu interactif : affiche les options, lit le choix et appelle la bonne fonction |
 | `functions.py` | Toutes les fonctions du programme |
-| `presentation.html` | La présentation du projet, avec ses animations ([voir en ligne](https://zaklotfi.github.io/Projet_python/presentation.html)) |
+| `presentation.html` | La présentation du projet, avec ses animations ([voir en ligne](https://zaklotfi.github.io/Gestion-Championnat-Foot-Python/presentation.html)) |
 
 ## Fonctionnalités
 
